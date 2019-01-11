@@ -11,21 +11,21 @@ patch:
         patched: '2017-11-01T23:57:06.122Z'
   'npm:debug:20170905':
     - metalsmith-metadata-directory > debug:
-        patched: '2019-01-11T15:45:40.170Z'
+        patched: '2019-01-11T15:48:12.448Z'
     - browser-sync > socket.io > socket.io-adapter > socket.io-parser > debug:
-        patched: '2019-01-11T15:45:40.170Z'
+        patched: '2019-01-11T15:48:12.448Z'
   'npm:lodash:20180130':
     - critical > oust > cheerio > lodash:
-        patched: '2019-01-11T15:45:40.170Z'
+        patched: '2019-01-11T15:48:12.448Z'
   'npm:minimatch:20160620':
     - gulp > vinyl-fs > glob-stream > minimatch:
-        patched: '2019-01-11T15:45:40.170Z'
+        patched: '2019-01-11T15:48:12.448Z'
     - gulp > vinyl-fs > glob-watcher > gaze > globule > minimatch:
-        patched: '2019-01-11T15:45:40.170Z'
+        patched: '2019-01-11T15:48:12.448Z'
     - gulp > vinyl-fs > glob-watcher > gaze > globule > glob > minimatch:
-        patched: '2019-01-11T15:45:40.170Z'
+        patched: '2019-01-11T15:48:12.448Z'
   'npm:ms:20170412':
     - metalsmith-metadata-directory > debug > ms:
-        patched: '2019-01-11T15:45:40.170Z'
+        patched: '2019-01-11T15:48:12.448Z'
     - browser-sync > socket.io > socket.io-adapter > socket.io-parser > debug > ms:
-        patched: '2019-01-11T15:45:40.170Z'
+        patched: '2019-01-11T15:48:12.448Z'
