@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.13.3
+version: v1.22.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -29,3 +29,10 @@ patch:
         patched: '2019-01-11T15:48:12.448Z'
     - browser-sync > socket.io > socket.io-adapter > socket.io-parser > debug > ms:
         patched: '2019-01-11T15:48:12.448Z'
+  SNYK-JS-LODASH-567746:
+    - snyk > inquirer > lodash:
+        patched: '2022-04-29T20:15:11.888Z'
+    - snyk > snyk-resolve-deps > lodash:
+        patched: '2022-04-29T20:15:11.888Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2022-04-29T20:15:11.888Z'
